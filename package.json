@@ -1,0 +1,10 @@
+{
+  "name": "emart-node-server",
+  "version": "1.0.0",
+  "description": "Ex 10 - E-MART Electronics server-side application using Node.js HTTP module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node local.js"
+  },
+  "license": "MIT"
+}
